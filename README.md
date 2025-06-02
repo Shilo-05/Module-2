@@ -1,7 +1,7 @@
 # Module 2 - Python
 
-##### **Name:** Oswald Shilo  
-##### **Reg No:** 212223040139
+#### **Name:** Oswald Shilo  
+#### **Reg No:** 212223040139
 
 ---
 
